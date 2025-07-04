@@ -1,3 +1,3 @@
 # Template
 
-Template for basic projects
+Drop down menu practice for the Odin Project
